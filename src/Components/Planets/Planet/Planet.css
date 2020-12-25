@@ -1,0 +1,21 @@
+div{
+    height: 4em;
+}
+
+.Planet{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 3em;
+}
+.Planet h4{
+    margin-top:1em;
+    width: 4em;
+    margin-right: 4em;
+}
+.Planet button{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 2.4em;
+}

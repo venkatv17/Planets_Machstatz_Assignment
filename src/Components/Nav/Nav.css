@@ -1,0 +1,36 @@
+nav{
+    background-color: black;
+    color:white;
+    max-width: 100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.Logo{
+    margin-right: auto;
+    margin-left: 1.2rem;
+    cursor: pointer;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.Logo.h1{
+    font-size: 4em;
+}
+.icon{
+    max-height: 40px;
+    max-width: 40px;
+    margin-right: 0.8em;
+}
+.ListItems{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.ListItems li{
+    margin-right: 1rem;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
